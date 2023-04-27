@@ -8,4 +8,14 @@
     <string name="passwordsesh2q1">Password:</string>
     <string name="loginsesh2q1">LOGIN</string>
     <string name="cancelsesh2q1">CANCEL</string>
+    <string name="regformsesh2q2">Registration Form</string>
+    <string name="welcomesesh2q2">Welcome to Adventure Learning Club!</string>
+    <string name="linedividersesh2q2">_______________________________________________________________</string>
+    <string name="fullnamesesh2q2">Full Name</string>
+    <string name="gendersesh2q2">Gender</string>
+    <string name="studentidsesh2q2">Student ID</string>
+    <string name="schoolsesh2q2">School      </string>
+    <string name="emailsesh2q2">E-mail       </string>
+    <string name="phonesesh2q2">Phone      </string>
+    <string name="registerbuttonsesh2q2">Register</string>
 </resources>
