@@ -3,5 +3,9 @@
     <string name="message">Welcome to Android!</string>
     <string name="message2">Large Text</string>
     <string name="button">Button</string>
-    <string name="button2"> Button 2</string>
+    <string name="button2">Button 2</string>
+    <string name="namesesh2q1">Name:</string>
+    <string name="passwordsesh2q1">Password:</string>
+    <string name="loginsesh2q1">LOGIN</string>
+    <string name="cancelsesh2q1">CANCEL</string>
 </resources>

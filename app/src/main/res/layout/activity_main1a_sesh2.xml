@@ -14,10 +14,10 @@
             android:id="@+id/textView8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Name:" />
+            android:text="@string/namesesh2q1" />
 
         <EditText
-            android:id="@+id/editTextText"
+            android:id="@+id/editTexts21"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -34,10 +34,10 @@
             android:id="@+id/textView9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Password:" />
+            android:text="@string/passwordsesh2q1" />
 
         <EditText
-            android:id="@+id/editTextText1"
+            android:id="@+id/editTexts22"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -54,13 +54,13 @@
             android:id="@+id/button10"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="LOGIN" />
+            android:text="@string/loginsesh2q1" />
 
         <Button
             android:id="@+id/button11"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="CANCEL" />
+            android:text="@string/cancelsesh2q1" />
     </LinearLayout>
 
 </LinearLayout>
